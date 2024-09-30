@@ -172,7 +172,7 @@ int main()
 		Room(1, 1, 12, people_group_1, 2),
 		Room(2, 2, 15, people_group_2, 1),
 	};
-	House house("Kiev", 12, 2, rooms);
+	House house("Kiev", 13, 2, rooms);
 
 	house.about();
 
